@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">- Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (2° Período)<br><br>- Certificado em Java Completo (Udemy - DevSuperior)<br><br>- Certificado em Java Spring Professional (DevSuperior - Nélio Alves)<br><br>- Cursando React Completo + Nivelamento HTML, CSS e JS (DevSuperior - Nélio Alves)</p>
+<p align="left">- Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (3° Período)<br><br>- Certificado em Java Completo (Udemy - DevSuperior)<br><br>- Certificado em Java Spring Professional (DevSuperior - Nélio Alves)<br><br>- Cursando React Completo + Nivelamento HTML, CSS e JS (DevSuperior - Nélio Alves)</p>
 
 ###
 
